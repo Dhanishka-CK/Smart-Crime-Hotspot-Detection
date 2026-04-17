@@ -293,14 +293,15 @@ pip install pandas numpy scipy matplotlib seaborn scikit-learn xgboost lightgbm 
 
 ## 👥 Team Member Details
 
-| Name | Role | Contribution |
-|---|---|---|
-| *(Team Member 1)* | ML Engineer | Feature engineering, baseline models, hyperparameter tuning |
-| *(Team Member 2)* | DL Engineer | TabNet architecture, training pipeline, attention visualisation |
-| *(Team Member 3)* | Data Analyst | EDA, outlier handling, class imbalance strategy |
-| *(Team Member 4)* | Ensemble Specialist | Stacking, voting ensemble, meta-learner analysis |
+Dhanishka C K
 
-> 📝 **Update this section with your actual team member names, roll numbers, and institution details before submission.**
+Badhri Vishal A
+
+Aswathi K
+
+Brindha S
+
+
 
 ---
 
